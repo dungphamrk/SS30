@@ -9,19 +9,12 @@ import BT7 from './components/BT7'
 import BT8 from './components/BT8'
 import BT9 from './components/BT9'
 import BT10 from './components/BT10'
+import BT11 from './components/BT11'
 export default function App() {
   return (
     <div>
-      <BT1></BT1>
-      <BT2></BT2>
-      <BT3></BT3>
-      <BT4></BT4>
-      <BT5></BT5>
-      <BT6></BT6>
-      <BT7></BT7>
-      <BT8></BT8>
-      <BT9></BT9>
-      <BT10></BT10>
+ 
+      <BT11></BT11>
     </div>
   )
 }
